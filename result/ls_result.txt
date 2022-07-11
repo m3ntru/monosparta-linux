@@ -1,0 +1,3 @@
+total 672
+-rw------- 1 vagrant vagrant 682402 Jul 11 06:09 pride_and_prejudice.txt
+drwxrwxr-x 2 vagrant vagrant   4096 Jul 11 06:09 tar
