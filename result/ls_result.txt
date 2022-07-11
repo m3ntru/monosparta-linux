@@ -1,0 +1,4 @@
+total 672
+-rw-rw-r-- 1 vagrant vagrant      0 Jul 11 06:35 ls_result.txt
+-rw------- 1 vagrant vagrant 682402 Jul 11 06:00 pride_and_prejudice.txt
+drwxrwxr-x 2 vagrant vagrant   4096 Jul 11 06:00 tar
